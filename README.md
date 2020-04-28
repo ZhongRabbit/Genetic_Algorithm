@@ -13,7 +13,7 @@ Inspired by &lt;&lt;Hidden Order: How Adaptation Builds Complexity&gt;&gt; by Ho
     <li>&lt;&lt;Hidden Order: How Adaptation Builds Complexity&gt;&gt; by J. Holland. A rather old book, but the foundational building blocks haven't changed much since the book was published.</li>
     <li>&lt;&lt;Why We Get Sick: The New Science of Darwinian Medicine&gt;&gt; by R. Nesse. Evolutionary Medicine. A sobering perspective on modern human life.</li>
     <li>&lt;&lt;Psychology: An Evolutionary Approach&gt;&gt; by S. Gaulin and D. McBurney. More of a textbook.</li>
-    <li>&lt;&lt;The Ancestor's Tale&gt;&gt; by R. Dawkin. A remarkable mind. Out of many insightful notes, Dawkin posed the question of "Can evolvability also be evolved? Can organisms evolve in their ability to adapt?"</li>
+    <li>&lt;&lt;The Ancestor's Tale&gt;&gt; by R. Dawkin. A remarkable mind. Out of many insightful notes, Dawkin posed the question of "Can evolvability also be evolved? Can organisms evolve in their ability to adapt?" This is akin to asking the question of "can nature tune hyper parameters for genetic algorithms"?</li>
 </ul>
 
 <hr>
