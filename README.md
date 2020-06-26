@@ -27,5 +27,11 @@ Inspired by &lt;&lt;Hidden Order: How Adaptation Builds Complexity&gt;&gt; by Ho
 
 <hr>
 
+<h3>If you're philosophically-inclined, 19th century Germany philosopher Arthur Schopenhauer mentioned a few ideas that were compatible w/ ecolutionary thinking. A pholosopher who can think so soberly about human mind before the publication of &lt;&lt;On the Origin of Species&gt;&gt; has a remarkable mind. Although, like some other German philosophers (i.e. Nietzsche) around this time, his thoughts were a bit gloomy. Yet, it's only after understanding such a sobering persepective one can attain a greater appreciation for the complexity of any biological mind.</h3>
+
+<h3>In a way, you have to think hard enough to fully realize how miraculously many things in biology actually work most of the time. :)</h3>
+
+<hr>
+
 A snapshot of the algorithm output:
 ![An Evolutionary Snapshot](https://github.com/ZhongRabbit/Genetic_Algorithm/blob/master/Genetic_Algorithm_Snapshot.png)
