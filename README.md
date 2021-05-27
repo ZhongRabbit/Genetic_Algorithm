@@ -12,7 +12,7 @@ Inspired by &lt;&lt;Hidden Order: How Adaptation Builds Complexity&gt;&gt; by Ho
     <li>&lt;&lt;Hidden Order: How Adaptation Builds Complexity&gt;&gt; by J. Holland. A rather old book, but the foundational building blocks haven't changed much since the book was published.</li>
     <li>&lt;&lt;Why We Get Sick: The New Science of Darwinian Medicine&gt;&gt; by R. Nesse. Evolutionary Medicine. A sobering perspective on modern human life.</li>
     <li>&lt;&lt;Psychology: An Evolutionary Approach&gt;&gt; by S. Gaulin and D. McBurney. More of a textbook.</li>
-    <li>&lt;&lt;The Ancestor's Tale&gt;&gt; by R. Dawkin. A remarkable mind. Out of many insightful notes, Dawkin posed the question of "Can evolvability also be evolved? Can organisms evolve in their ability to adapt?" This is akin to asking the question of "can nature tune hyper parameters for genetic algorithms"?</li>
+    <li>&lt;&lt;The Ancestor's Tale&gt;&gt; by R. Dawkin.</li>
 </ul>
 
 <hr>
@@ -26,7 +26,7 @@ Inspired by &lt;&lt;Hidden Order: How Adaptation Builds Complexity&gt;&gt; by Ho
 
 <hr>
 
-<h3>If you're philosophically-inclined, 19th century Germany philosopher Arthur Schopenhauer mentioned a few ideas that were compatible w/ ecolutionary thinking. A pholosopher who can think so soberly about human mind before the publication of &lt;&lt;On the Origin of Species&gt;&gt; has a remarkable mind. Although, like some other German philosophers (i.e. Nietzsche) around this time, his thoughts were a bit gloomy. Yet, it's only after understanding such a sobering persepective one can attain a greater appreciation for the complexity of any biological mind.</h3>
+<h3>If you're philosophically-inclined, 19th century Germany philosopher Arthur Schopenhauer mentioned a few ideas that were compatible w/ ecolutionary thinking. Although, like some other German philosophers (i.e. Nietzsche) around this time, his thoughts were a bit gloomy. Yet, it's only after understanding such a sobering persepective one can attain a greater appreciation for the complexity of the human mind.</h3>
 
 <h3>In a way, you have to think hard enough to fully realize how miraculously many things in biology actually work most of the time. :)</h3>
 
